@@ -88,8 +88,8 @@ Cloud Infrastructure      ██████████████████
 ## `> git log --stats --author=prathamesh`
 
 <p align="center">
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=imprathameshdev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imprathameshdev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
+<img height="165em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=imprathameshdev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
+<img height="165em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=imprathameshdev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
 </p>
 
 <p align="center">
